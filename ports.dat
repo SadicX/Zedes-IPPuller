@@ -1,0 +1,881 @@
+0 1 Reserved
+1 2 TCP Port Service Multiplexer (TCPMUX)
+2 2 CompressNET[2] Management Utility[3]
+3 2 CompressNET[2] Compression Process[4]
+4 2 Unassigned
+5 2 Remote Job Entry
+6 2 Unassigned
+7 2 Echo Protocol
+8 2 Unassigned
+9 2 Discard Protocol
+10 2 Unassigned
+11 2 Active Users (systat service[5])
+12 2 Unassigned
+13 2 Daytime Protocol (RFC 867)
+14 2 Unassigned
+15 2 netstat service[5]
+16 2 Unassigned
+17 2 Quote of the Day
+18 2 Message Send Protocol
+19 2 Character Generator Protocol (CHARGEN)
+20 1 FTP�data transfer
+21 1 FTP�control (command)
+22 2 Secure Shell (SSH)�used for secure logins, file transfers (scp, sftp) and port forwarding
+23 1 Telnet protocol�unencrypted text communications
+24 2 Priv-mail&#160;: any private mail system.
+25 1 Simple Mail Transfer Protocol (SMTP)�used for e-mail routing between mail servers
+34 2 Remote File (RF)�used to transfer files between machines
+35 2 Any private printer server protocol
+37 2 TIME protocol
+39 2 Resource Location Protocol[6] (RLP)�used for determining the location of higher level services from hosts on a network
+41 2 Graphics
+42 2 nameserver, ARPA Host Name Server Protocol
+43 1 WHOIS protocol
+47 2 NI FTP[6]
+49 2 TACACS Login Host protocol
+50 2 Remote Mail Checking Protocol[7]
+51 2 IMP Logical Address Maintenance
+52 2 XNS (Xerox Network Systems) Time Protocol
+53 2 Domain Name System (DNS)
+54 2 XNS (Xerox Network Systems) Clearinghouse
+55 2 ISI Graphics Language (ISI-GL)
+56 2 XNS (Xerox Network Systems) Authentication
+57 1 Mail Transfer Protocol (MTP)
+58 2 XNS (Xerox Network Systems) Mail
+67 1 Bootstrap Protocol (BOOTP) Server; also used by Dynamic Host Configuration Protocol (DHCP)
+68 1 Bootstrap Protocol (BOOTP) Client; also used by Dynamic Host Configuration Protocol (DHCP)
+69 1 Trivial File Transfer Protocol (TFTP)
+70 1 Gopher protocol
+79 1 Finger protocol
+80 2 Hypertext Transfer Protocol (HTTP)
+81 1 Torpark�Onion routing
+82 1 Torpark�Control
+83 1 MIT ML Device
+88 2 Kerberos�authentication system
+90 2 dnsix (DoD Network Security for Information Exchange) Securit Attribute Token Map
+99 1 WIP Message Protocol
+101 1 NIC host name
+102 1 ISO-TSAP (Transport Service Access Point) Class 0 protocol[9]
+104 2 ACR/NEMA Digital Imaging and Communications in Medicine
+105 2 CCSO Nameserver Protocol (Qi/Ph)
+107 1 Remote TELNET Service[10] protocol
+108 2 SNA Gateway Access Server [11]
+109 1 Post Office Protocol v2 (POP2)
+110 1 Post Office Protocol v3 (POP3)
+111 2 ONC RPC (SunRPC)
+113 1 ident�Identification Protocol,[12] used by IRC servers to identify users
+115 1 Simple File Transfer Protocol (SFTP)
+117 1 UUCP Path Service
+118 2 SQL (Structured Query Language) Services
+119 1 Network News Transfer Protocol (NNTP)�retrieval of newsgroup messages
+123 1 Network Time Protocol (NTP)�used for time synchronization
+135 2 DCE endpoint resolution
+137 2 NetBIOS NetBIOS Name Service
+138 2 NetBIOS NetBIOS Datagram Service
+139 2 NetBIOS NetBIOS Session Service
+143 2 Internet Message Access Protocol (IMAP)�management of email messages
+152 2 Background File Transfer Program (BFTP)[14]
+153 2 SGMP, Simple Gateway Monitoring Protocol
+156 2 SQL Service
+158 2 DMSP, Distributed Mail Service Protocol
+161 1 Simple Network Management Protocol (SNMP)
+162 2 Simple Network Management Protocol Trap (SNMPTRAP)[15]
+170 1 Print-srv, Network PostScript
+177 2 X Display Manager Control Protocol (XDMCP)
+179 1 BGP (Border Gateway Protocol)
+194 2 Internet Relay Chat (IRC)
+199 2 SMUX, SNMP Unix Multiplexer
+201 2 AppleTalk Routing Maintenance
+209 2 The Quick Mail Transfer Protocol
+210 2 ANSI Z39.50
+213 2 Internetwork Packet Exchange (IPX)
+218 2 Message posting protocol (MPP)
+220 2 Internet Message Access Protocol (IMAP), version 3
+256 2 2DEV "2SP" Port
+259 2 ESRO, Efficient Short Remote Operations
+264 2 BGMP, Border Gateway Multicast Protocol
+308 1 Novastor Online Backup
+311 1 Mac OS X Server Admin (officially AppleShare IP Web administration)
+318 2 PKIX TSP, Time Stamp Protocol
+319 1 Precision time protocol event messages
+320 1 Precision time protocol general messages
+323 2 IMMP, Internet Message Mapping Protocol
+350 2 MATIP-Type A, Mapping of Airline Traffic over Internet Protocol
+351 2 MATIP-Type B, Mapping of Airline Traffic over Internet Protocol
+366 2 ODMR, On-Demand Mail Relay
+369 2 Rpc2portmap
+370 1 codaauth2�Coda authentication server
+371 2 ClearCase albd
+383 2 HP data alarm manager
+384 2 A Remote Network Server System
+387 2 AURP, AppleTalk Update-based Routing Protocol[17]
+389 2 Lightweight Directory Access Protocol (LDAP)
+401 2 UPS Uninterruptible Power Supply
+402 1 Altiris, Altiris Deployment Client
+411 1 Direct Connect Hub
+412 1 Direct Connect Client-to-Client
+427 2 Service Location Protocol (SLP)
+443 1 HTTPS (Hypertext Transfer Protocol over SSL/TLS)
+444 2 SNPP, Simple Network Paging Protocol (RFC 1568)
+445 1 Microsoft-DS Active Directory, Windows shares
+464 2 Kerberos Change/Set password
+465 1 Cisco protocol
+475 2 tcpnethaspsrv (Aladdin Knowledge Systems Hasp services, TCP/IP version)
+497 1 Dantz Retrospect
+500 1 Internet Security Association and Key Management Protocol (ISAKMP)
+501 1 STMF, Simple Transportation Management Framework�DOT NTCIP 1101
+502 2 asa-appl-proto, Protocol
+504 2 Citadel�multiservice protocol for dedicated clients for the Citadel groupware system
+510 1 First Class Protocol
+512 1 Rexec, Remote Process Execution
+513 1 rlogin
+514 1 Shell�used to execute non-interactive commands on a remote system (Remote Shell, rsh, remsh)
+515 1 Line Printer Daemon�print service
+517 1 Talk
+518 1 NTalk
+520 1 efs, extended file name server
+524 2 NetWare Core Protocol (NCP) is used for a variety things such as access to primary NetWare server resources, Time Synchronization, etc.
+525 1 Timed, Timeserver
+530 2 RPC
+531 2 AOL Instant Messenger, IRC
+532 1 netnews
+533 1 netwall, For Emergency Broadcasts
+540 1 UUCP (Unix-to-Unix Copy Protocol)
+542 2 commerce (Commerce Applications)
+543 1 klogin, Kerberos login
+544 1 kshell, Kerberos Remote shell
+545 1 OSIsoft PI (VMS), OSISoft PI Server Client Access
+546 2 DHCPv6 client
+547 2 DHCPv6 server
+548 1 Apple Filing Protocol (AFP) over TCP
+550 1 new-rwho, new-who
+554 2 Real Time Streaming Protocol (RTSP)
+556 1 Remotefs, RFS, rfs_server
+560 1 rmonitor, Remote Monitor
+561 1 monitor
+563 2 NNTP protocol over TLS/SSL (NNTPS)
+587 1 e-mail message submission[18] (SMTP)
+591 1 FileMaker 6.0 (and later) Web Sharing (HTTP Alternate, also see port 80)
+593 2 HTTP RPC Ep Map, Remote procedure call over Hypertext Transfer Protocol, often used by Distributed Component Object Model services and Microsoft Exchange Server
+604 1 TUNNEL profile,[19] a protocol for BEEP peers to form an application layer tunnel
+623 1 ASF Remote Management and Control Protocol (ASF-RMCP)
+631 2 Internet Printing Protocol (IPP)
+635 2 RLZ DBase
+636 2 Lightweight Directory Access Protocol over TLS/SSL (LDAPS)
+639 2 MSDP, Multicast Source Discovery Protocol
+641 2 SupportSoft Nexus Remote Command (control/listening): A proxy gateway connecting remote control traffic
+646 2 LDP, Label Distribution Protocol, a routing protocol used in MPLS networks
+647 1 DHCP Failover protocol[20]
+648 1 RRP (Registry Registrar Protocol)[21]
+651 2 IEEE-MMS
+652 1 DTCP, Dynamic Tunnel Configuration Protocol
+653 2 SupportSoft Nexus Remote Command (data): A proxy gateway connecting remote control traffic
+654 1 Media Management System (MMS) Media Management Protocol (MMP)[22]
+657 2 IBM RMC (Remote monitoring and Control) protocol, used by System p5 AIX Integrated Virtualization Manager (IVM)[23] and Hardware Management Console to connect managed logical partitions (LPAR) to enable dynamic partition reconfiguration
+660 1 Mac OS X Server administration
+665 1 sun-dr, Remote Dynamic Reconfiguration
+666 1 Doom, first online first-person shooter
+674 1 ACAP (Application Configuration Access Protocol)
+691 1 MS Exchange Routing
+692 1 Hyperwave-ISP
+694 2 Linux-HA High availability Heartbeat
+695 1 IEEE-MMS-SSL (IEEE Media Management System over SSL)[24]
+698 1 OLSR (Optimized Link State Routing)
+699 1 Access Network
+700 1 EPP (Extensible Provisioning Protocol), a protocol for communication between domain name registries and registrars (RFC 5734)
+701 1 LMP (Link Management Protocol (Internet)),[25] a protocol that runs between a pair of nodes and is used to manage traffic engineering (TE) links
+702 1 IRIS[26][27] (Internet Registry Information Service) over BEEP (Blocks Extensible Exchange Protocol)[28] (RFC 3983)
+706 1 Secure Internet Live Conferencing (SILC)
+711 1 Cisco Tag Distribution Protocol[29][30][31]�being replaced by the MPLS Label Distribution Protocol[32]
+712 1 Topology Broadcast based on Reverse-Path Forwarding routing protocol (TBRPF) (RFC 3684)
+720 1 SMQP, Simple Message Queue Protocol
+749 2 Kerberos (protocol) administration
+750 1 rfile
+751 2 pump
+752 1 qrh
+753 1 Reverse Routing Header (rrh)[33]
+754 1 tell send
+760 2 ns
+782 1 Conserver serial-console management server
+783 1 SpamAssassin spamd daemon
+829 1 CMP (Certificate Management Protocol)
+843 1 Adobe Flash socket policy server
+847 1 DHCP Failover protocol
+860 1 iSCSI (RFC 3720)
+873 1 rsync file synchronisation protocol
+888 1 cddbp, CD DataBase (CDDB) protocol (CDDBP)�unassigned but widespread use
+901 1 Samba Web Administration Tool (SWAT)
+902 1 ideafarm-door 902/tcp self documenting Door: send 0x00 for info
+903 1 VMware Remote Console [34]
+904 1 VMware Server Alternate (if 902 is in use, i.e. SUSE linux)
+911 1 Network Console on Acid (NCA)�local tty redirection over OpenSSH
+953 2 Domain Name System (DNS) RNDC Service
+981 1 SofaWare Technologies Remote HTTPS management for firewall devices running embedded Check Point FireWall-1 software
+989 2 FTPS Protocol (data): FTP over TLS/SSL
+990 2 FTPS Protocol (control): FTP over TLS/SSL
+991 2 NAS (Netnews Administration System)
+992 2 TELNET protocol over TLS/SSL
+993 1 Internet Message Access Protocol over SSL (IMAPS)
+995 1 Post Office Protocol 3 over TLS/SSL (POP3S)
+999 1 ScimoreDB Database System
+1001 1 JtoMB
+1002 1 Opsware agent (aka cogbot)
+1023 2 Reserved[1]
+1024 2 Reserved[1]
+1025 1 NFS or IIS or Teradata
+1026 1 Often used by Microsoft DCOM services
+1029 1 Often used by Microsoft DCOM services
+1058 2 nim, IBM AIX Network Installation Manager (NIM)
+1059 2 nimreg, IBM AIX Network Installation Manager (NIM)
+1080 1 SOCKS proxy
+1085 2 WebObjects
+1098 2 rmiactivation, RMI Activation
+1099 2 rmiregistry, RMI Registry
+1109 1 Reserved[1]
+1110 1 EasyBits School network discovery protocol (for Intel's CMPC platform)
+1140 2 AutoNOC protocol
+1167 1 phone, conference calling
+1169 2 Tripwire
+1176 1 Perceptive Automation Indigo Home automation server
+1182 2 AcceleNet Intelligent Transfer Protocol
+1194 2 OpenVPN
+1198 2 The cajo project Free dynamic transparent distributed computing in Java
+1200 1 scol, protocol used by SCOL 3D virtual worlds server to answer world name resolution client request[35]
+1214 1 Kazaa
+1217 1 Uvora Online
+1220 1 QuickTime Streaming Server administration
+1223 2 TGP, TrulyGlobal Protocol, also known as "The Gur Protocol" (named for Gur Kimchi of TrulyGlobal)
+1234 1 VLC media player Default port for UDP/RTP stream
+1236 1 Symantec BindView Control UNIX Default port for TCP management server connections
+1241 2 Nessus Security Scanner
+1270 2 Microsoft System Center Operations Manager (SCOM) (formerly Microsoft Operations Manager (MOM)) agent
+1293 2 IPSec (Internet Protocol Security)
+1301 1 Palmer Performance OBDNet
+1309 1 Altera Quartus jtagd
+1311 1 Dell OpenManage HTTPS
+1313 1 Xbiim (Canvii server)
+1319 1 AMX ICSP
+1337 1 Men and Mice DNS
+1352 1 IBM Lotus Notes/Domino[36] (RPC) protocol
+1387 2 cadsi-lm, LMS International (formerly Computer Aided Design Software, Inc. (CADSI)) LM
+1414 1 IBM WebSphere MQ (formerly known as MQSeries)
+1417 2 Timbuktu Service 1 Port
+1418 2 Timbuktu Service 2 Port
+1419 2 Timbuktu Service 3 Port
+1420 2 Timbuktu Service 4 Port
+1431 1 Reverse Gossip Transport Protocol (RGTP), used to access a General-purpose Reverse-Ordered Gossip Gathering System (GROGGS) bulletin board, such as that implemented on the Cambridge University's Phoenix system
+1433 1 MSSQL (Microsoft SQL Server database management system) Server
+1434 2 MSSQL (Microsoft SQL Server database management system) Monitor
+1470 1 Solarwinds Kiwi Log Server
+1494 1 Citrix XenApp Independent Computing Architecture (ICA) thin client protocol
+1500 1 NetGuard GuardianPro firewall (NT4-based) Remote Management
+1501 1 NetGuard GuardianPro firewall (NT4-based) Authentication Client
+1503 2 Windows Live Messenger (Whiteboard and Application Sharing)
+1512 2 Microsoft Windows Internet Name Service (WINS)
+1513 2 Garena Garena Gaming Client
+1521 1 nCube License Manager
+1524 2 ingreslock, ingres
+1526 1 Oracle database common alternative for listener
+1533 1 IBM Sametime IM�Virtual Places Chat Microsoft SQL Server
+1547 2 Laplink
+1550 0 Gadu-Gadu (direct client-to-client)
+1581 1 MIL STD 2045-47001 VMF
+1589 1 Cisco VQP (VLAN Query Protocol) / VMPS
+1627 0 iSketch
+1645 2 radius auth, RADIUS authentication protocol (default for Cisco and Juniper Networks RADIUS servers)
+1646 2 radius acct, RADIUS authentication protocol (default for Cisco and Juniper Networks RADIUS servers)
+1666 1 Perforce
+1677 2 Novell GroupWise clients in client/server access mode
+1701 1 Layer 2 Forwarding Protocol (L2F) & Layer 2 Tunneling Protocol (L2TP)
+1707 1 Romtoc Packet Protocol (L2F) & Layer 2 Tunneling Protocol (L2TP)
+1716 1 America's Army Massively multiplayer online game (MMO)
+1719 1 H.323 Registration and alternate communication
+1720 1 H.323 Call signalling
+1723 2 Microsoft Point-to-Point Tunneling Protocol (PPTP)
+1725 1 Valve Steam Client
+1755 2 Microsoft Media Services (MMS, ms-streaming)
+1761 1 cft-0
+1801 2 Microsoft Message Queuing
+1812 2 radius, RADIUS authentication protocol
+1813 2 radacct, RADIUS accounting protocol
+1863 1 MSNP (Microsoft Notification Protocol), used by the .NET Messenger Service and a number of Instant Messaging clients
+1883 2 MQ Telemetry Transport (MQTT), formerly known as MQIsdp (MQSeries SCADA protocol)
+1886 1 Leonardo over IP Pro2col Ltd
+1900 1 Microsoft SSDP Enables discovery of UPnP devices
+1920 1 IBM Tivoli Monitoring Console (https)
+1935 1 Adobe Systems Macromedia Flash Real Time Messaging Protocol (RTMP) "plain" protocol
+1947 2 SentinelSRM (hasplm), Aladdin HASP License Manager
+1967 1 Cisco IOS IP Service Level Agreements (IP SLAs) Control Protocol
+1970 2 Netop Business Solutions Netop Remote Control
+1971 2 Netop Business Solutions Netop School
+1972 2 InterSystems Cach�
+1984 1 Big Brother System and Network Monitor
+1985 1 Cisco HSRP
+1994 2 Cisco STUN-SDLC (Serial Tunneling�Synchronous Data Link Control) protocol
+1997 1 Chizmo Networks Transfer Tool
+1998 2 Cisco X.25 over TCP (XOT) service
+2000 2 Cisco SCCP (Skinny)
+2001 1 CAPTAN Test Stand System
+2002 1 Secure Access Control Server (ACS) for Windows
+2030 0 Oracle Services for Microsoft Transaction Server
+2031 2 mobrien-chat(http://chat.mobrien.com:2031)
+2041 1 Mail.Ru Agent communication protocol
+2049 1 Network File System
+2053 1 lot105-ds-upd Lot105 DSuper Updates
+2056 1 Civilization 4 multiplayer
+2073 2 DataReel Database
+2074 2 Vertel VMF SA (i.e. App.. SpeakFreely)
+2082 1 Infowave Mobility Server
+2083 1 Secure Radius Service (radsec)
+2086 1 GNUnet
+2087 1 WebHost Manager default SSL
+2095 1 CPanel default Web mail
+2096 1 CPanel default SSL Web mail
+2102 2 zephyr-srv Project Athena Zephyr Notification Service server
+2103 2 zephyr-clt Project Athena Zephyr Notification Service serv-hm connection
+2104 2 zephyr-hm Project Athena Zephyr Notification Service hostmanager
+2105 2 IBM MiniPay
+2144 1 Iron Mountain LiveVault Agent
+2145 1 Iron Mountain LiveVault Agent
+2156 1 Talari Reliable Protocol
+2161 1 APC Agent
+2181 2 EForward-document transport system
+2190 1 TiVoConnect Beacon
+2200 1 Tuxanci game server[37]
+2210 1 NOAAPORT Broadcast Network
+2211 1 EMWIN
+2212 1 LeeCO POS Server Service
+2219 2 NetIQ NCAP Protocol
+2220 2 NetIQ End2End
+2221 1 ESET Anti-virus updates
+2222 1 DirectAdmin default & ESET Remote Administration
+2223 1 Microsoft Office OS X antipiracy network monitor
+2261 2 CoMotion Master
+2262 2 CoMotion Backup
+2301 1 HP System Management Redirect to port 2381
+2302 1 ArmA multiplayer (default for game)
+2303 1 ArmA multiplayer (default for server reporting) (default port for game +1)
+2305 1 ArmA multiplayer (default for VoN) (default port for game +3)
+2369 1 Default for BMC Software Control-M/Server�Configuration Agent, though often changed during installation
+2370 1 Default for BMC Software Control-M/Server�to allow the Control-M/Enterprise Manager to connect to the Control-M/Server, though often changed during installation
+2381 1 HP Insight Manager default for Web server
+2401 1 CVS version control system
+2404 1 IEC 60870-5 -104, used to send electric power telecontrol messages between two systems via directly connected data circuits
+2420 1 Westell Remote Access
+2427 1 Cisco MGCP
+2447 2 ovwdb�OpenView Network Node Manager (NNM) daemon
+2483 2 Oracle database listening for unsecure client connections to the listener, replaces port 1521
+2484 2 Oracle database listening for SSL client connections to the listener
+2500 1 THE�SMESSENGER listening for The�sMessenger client connections
+2501 1 TheosNet-Admin listening for The�sMessenger client connections
+25565 1 Minecraft Beta Server
+2525 1 SMTP alternate
+2546 2 EVault�Data Protection Services
+2593 2 RunUO�Ultima Online server
+2598 1 new ICA�when Session Reliability is enabled, TCP port 2598 replaces port 1494
+2599 1 SonicWALL Antispam traffic between Remote Analyzer (RA) and Control Center (CC)
+2610 1 Dark Ages
+2612 2 QPasa from MQSoftware
+2638 1 Sybase database listener
+2710 1 XBT Bittorrent Tracker
+2713 2 Raven Trinity Broker Service
+2714 2 Raven Trinity Data Mover
+2735 2 NetIQ Monitor Console
+2809 1 corbaloc:iiop URL, per the CORBA 3.0.3 specification
+2868 2 Norman Proprietary Event Protocol NPEP
+2944 1 Megaco Text H.248
+2945 1 Megaco Binary (ASN.1) H.248
+2947 1 gpsd GPS daemon
+2948 2 WAP-push Multimedia Messaging Service (MMS)
+2949 2 WAP-pushsecure Multimedia Messaging Service (MMS)
+2967 1 Symantec AntiVirus Corporate Edition
+3000 1 Miralix License server
+3001 1 Miralix Phone Monitor
+3002 1 Miralix CSTA
+3003 1 Miralix GreenBox API
+3004 1 Miralix InfoLink
+3005 1 Miralix TimeOut
+3006 1 Miralix SMS Client Connector
+3007 1 Miralix OM Server
+3008 1 Miralix Proxy
+3017 1 Miralix IVR and Voicemail
+3025 1 netpd.org
+3030 2 NetPanzer
+3050 2 gds_db (Interbase/Firebird)
+3051 2 Galaxy Server (Gateway Ticketing Systems)
+3074 2 Xbox LIVE and/or Games for Windows - LIVE
+3100 1 HTTP used by Tatsoft as the default listen port
+3101 1 BlackBerry Enterprise Server communication to cloud
+3128 1 HTTP used by Web caches and the default for the Squid (software)
+3225 2 FCIP (Fiber Channel over Internet Protocol)
+3233 2 WhiskerControl research control protocol
+3235 2 Galaxy Network Service (Gateway Ticketing Systems)
+3260 1 iSCSI target
+3268 2 msft-gc, Microsoft Global Catalog (LDAP service which contains data from Active Directory forests)
+3269 2 msft-gc-ssl, Microsoft Global Catalog over SSL (similar to port 3268, LDAP over SSL)
+3283 1 Apple Remote Desktop reporting (officially Net Assistant, referring to an earlier product)
+3299 1 SAP-Router (routing application proxy for SAP R/3)
+3300 2 Debate Gopher backend database system
+3305 2 odette-ftp, Odette File Transfer Protocol (OFTP)
+3306 2 MySQL database system
+3313 1 Verisys - File Integrity Monitoring Software
+3333 1 Network Caller ID server
+3386 2 GTP' 3GPP GSM/UMTS CDR logging protocol
+3389 2 Microsoft Terminal Server (RDP) officially registered as Windows Based Terminal (WBT) - Link
+3396 2 Novell NDPS Printer Agent
+3412 2 xmlBlaster
+3455 2 [RSVP] Reservation Protocol
+3423 1 Xware xTrm Communication Protocol
+3424 1 Xware xTrm Communication Protocol over SSL
+3478 2 STUN, a protocol for NAT traversal
+3483 1 Slim Devices discovery protocol
+3516 2 Smartcard Port
+3527 1 Microsoft Message Queuing
+3532 2 Raven Remote Management Control
+3533 2 Raven Remote Management Data
+3537 2 ni-visa-remote
+3544 1 Teredo tunneling
+3605 1 ComCam IO Port
+3606 2 Splitlock Server
+3632 1 distributed compiler
+3689 1 Digital Audio Access Protocol (DAAP)�used by Apple�s iTunes and AirPort Express
+3690 2 Subversion version control system
+3702 2 Web Services Dynamic Discovery (WS-Discovery), used by various components of Windows Vista
+3723 2 Used by many Battle.net Blizzard games (Diablo II, Warcraft II, Warcraft III, StarCraft)
+3724 1 World of Warcraft Online gaming MMORPG
+3784 2 Ventrilo VoIP program used by Ventrilo
+3785 1 Ventrilo VoIP program used by Ventrilo
+3800 1 Used by HGG programs
+3880 2 IGRS
+3868 2 Diameter base protocol (RFC 3588)
+3872 1 Oracle Management Remote Agent
+3899 1 Remote Administrator
+3900 1 udt_os, IBM UniData UDT OS[38]
+3945 2 EMCADS service, a Giritech product used by G/On
+3978 2 OpenTTD game (masterserver and content service)
+3979 2 OpenTTD game
+3999 2 Norman distributed scanning service
+4000 2 Diablo II game
+4001 1 Microsoft Ants game
+4007 1 PrintBuzzer printer monitoring socket server
+4018 2 protocol information and warnings
+4069 1 Minger Email Address Verification Protocol[39]
+4089 2 OpenCORE Remote Control Service
+4093 2 PxPlus Client server interface ProvideX
+4096 2 Ascom Timeplex BRE (Bridge Relay Element)
+4100 0 WatchGuard Authentication Applet�default
+4111 1 Xgrid
+4116 2 Smartcard-TLS
+4125 1 Microsoft Remote Web Workplace administration
+4201 1 TinyMUD and various derivatives
+4226 2 Aleph One (game)
+4224 1 Cisco Audio Session Tunneling
+4321 1 Referral Whois (RWhois) Protocol[40]
+4323 1 Lincoln Electric's ArcLink/XT
+4500 1 IPSec NAT Traversal (RFC 3947)
+4534 1 Armagetron Advanced default server port
+4567 1 Sinatra default server port in development mode (HTTP)
+4569 1 Inter-Asterisk eXchange (IAX2)
+4662 1 OrbitNet Message Service
+4664 1 Google Desktop Search
+4672 1 eMule�often used
+4711 1 McAfee Web Gateway 7 - Default GUI Port HTTP
+4712 1 McAfee Web Gateway 7 - Default GUI Port HTTPS
+4728 1 Computer Associates Desktop and Server Management (DMP)/Port Multiplexer [41]
+4747 1 Apprentice
+4750 1 BladeLogic Agent
+4840 2 OPC UA TCP Protocol for OPC Unified Architecture from OPC Foundation
+4843 2 OPC UA TCP Protocol over TLS/SSL for OPC Unified Architecture from OPC Foundation
+4847 2 Web Fresh Communication, Quadrion Software & Odorless Entertainment
+4894 2 LysKOM Protocol A
+4899 2 Radmin remote administration tool (program sometimes used by a Trojan horse)
+4949 1 Munin Resource Monitoring Tool
+4950 2 Cylon Controls UC32 Communications Port
+4982 2 Solar Data Log (JK client app for PV solar inverters )
+4993 2 Home FTP Server web Interface Default Port
+5000 1 commplex-main
+5001 1 commplex-link
+5002 1 SOLICARD ARX[42]
+5003 2 FileMaker
+5004 2 RTP (Real-time Transport Protocol) media data (RFC 3551, RFC 4571)
+5005 2 RTP (Real-time Transport Protocol) control protocol (RFC 3551, RFC 4571)
+5029 1 Sonic Robot Blast 2&#160;: Multiplayer
+5031 2 AVM CAPI-over-TCP (ISDN over Ethernet tunneling)
+5050 1 Yahoo! Messenger
+5051 1 ita-agent Symantec Intruder Alert[43]
+5060 2 Session Initiation Protocol (SIP)
+5061 1 Session Initiation Protocol (SIP) over TLS
+5070 1 Binary Floor Control Protocol (BFCP),[44] published as RFC 4582, is a protocol that allows for an additional video channel (known as the content channel) alongside the main video channel in a video-conferencing call that uses SIP. Also used for Session Initiation Protocol (SIP) preferred port for PUBLISH on SIP Trunk to Cisco Unified Presence Server (CUPS)
+5082 2 Qpur Communication Protocol
+5083 2 Qpur File Protocol
+5084 2 EPCglobal Low Level Reader Protocol (LLRP)
+5085 2 EPCglobal Low Level Reader Protocol (LLRP) over TLS
+5093 1 SafeNet, Inc Sentinel LM, Sentinel RMS, License Manager, Client-to-Server
+5099 2 SafeNet, Inc Sentinel LM, Sentinel RMS, License Manager, Server-to-Server
+5104 1 IBM Tivoli Framework NetCOOL/Impact[45] HTTP Service
+5106 1 A-Talk Common connection
+5107 1 A-Talk Remote server connection
+5108 1 VPOP3 Mail Server Webmail
+5109 2 VPOP3 Mail Server Status
+5110 1 ProRat Server
+5121 1 Neverwinter Nights
+5150 2 ATMP Ascend Tunnel Management Protocol[46]
+5151 1 ESRI SDE Instance
+5154 2 BZFlag
+5176 1 ConsoleWorks default UI interface
+5190 1 ICQ and AOL Instant Messenger
+5222 1 Extensible Messaging and Presence Protocol (XMPP) client connection[47]
+5223 1 Extensible Messaging and Presence Protocol (XMPP) client connection over SSL
+5246 1 Control And Provisioning of Wireless Access Points (CAPWAP) CAPWAP control)[48]
+5247 1 Control And Provisioning of Wireless Access Points (CAPWAP) CAPWAP data[48]
+5269 1 Extensible Messaging and Presence Protocol (XMPP) server connection[47]
+5298 2 Extensible Messaging and Presence Protocol (XMPP) JEP-0174: Link-Local Messaging / XEP-0174: Serverless Messaging
+5310 2 Ginever.net data communication port
+5311 2 Ginever.net data communication port
+5312 2 Ginever.net data communication port
+5313 2 Ginever.net data communication port
+5314 2 Ginever.net data communication port
+5315 2 Ginever.net data communication port
+5351 2 NAT Port Mapping Protocol�client-requested configuration for inbound connections through network address translators
+5353 1 Multicast DNS (mDNS)
+5355 2 LLMNR�Link-Local Multicast Name Resolution, allows hosts to perform name resolution for hosts on the same local link (only provided by Windows Vista and Server 2008)
+5357 2 Web Services for Devices (WSDAPI) (only provided by Windows Vista, Windows 7 and Server 2008)
+5358 2 WSDAPI Applications to Use a Secure Channel (only provided by Windows Vista, Windows 7 and Server 2008)
+5402 2 mftp, Stratacache OmniCast content delivery system MFTP file sharing protocol
+5405 2 NetSupport Manager
+5421 2 NetSupport Manager
+5432 2 PostgreSQL database system
+5433 1 Bouwsoft file/webserver &lt;http://www.bouwsoft.be&gt;
+5445 1 Cisco Unified Video Advantage
+5450 1 OSIsoft PI Server Client Access
+5457 1 OSIsoft PI Asset Framework Client Access
+5458 1 OSIsoft PI Notifications Client Access
+5495 1 Applix TM1 Admin server
+5498 1 Hotline tracker server connection
+5499 1 Hotline tracker server discovery
+5500 1 VNC remote desktop protocol�for incoming listening viewer, Hotline control connection
+5501 1 Hotline file transfer connection
+5517 1 Setiqueue Proxy server client for SETI@Home project
+5550 1 Hewlett-Packard Data Protector
+5555 1 Freeciv versions up to 2.0, Hewlett-Packard Data Protector, McAfee EndPoint Encryption Database Server, SAP
+5556 2 Freeciv
+5591 1 Tidal Enterprise Scheduler master
+5631 1 pcANYWHEREdata, Symantec pcAnywhere (version 7.52 and later[49])[50] data
+5632 1 pcANYWHEREstat, Symantec pcAnywhere (version 7.52 and later) status
+5656 1 IBM Sametime p2p file transfer
+5666 1 NRPE (Nagios)
+5667 1 NSCA (Nagios)
+5678 1 Mikrotik RouterOS Neighbor Discovery Protocol (MNDP)
+5721 2 Kaseya
+5723 1 Operations Manager
+5800 1 VNC remote desktop protocol�for use over HTTP
+5814 2 Hewlett-Packard Support Automation (HP OpenView Self-Healing Services)
+5850 1 COMIT SE (PCR)
+5852 1 Adeona client: communications to OpenDHT
+5900 2 Virtual Network Computing (VNC) remote desktop protocol (used by Apple Remote Desktop and others)
+5912 1 Tidal Enterprise Scheduler agent
+5938 2 TeamViewer[51] remote desktop protocol
+5984 2 CouchDB database server
+5999 1 CVSup [52] file update tool
+6000 1 X11�used between an X client and server over the network
+6001 1 X11�used between an X client and server over the network
+6005 1 Default for BMC Software Control-M/Server�Socket used for communication between Control-M processes�though often changed during installation
+6050 1 Brightstor Arcserve Backup
+6051 1 Brightstor Arcserve Backup
+6072 1 iOperator Protocol Signal Port
+6086 1 PDTP�FTP like file server in a P2P network
+6100 1 Vizrt System
+6101 1 Backup Exec Agent Browser
+6110 2 softcm, HP Softbench CM
+6111 2 spc, HP Softbench Sub-Process Control
+6112 1 "dtspcd"�a network daemon that accepts requests from clients to execute commands and launch applications remotely
+6113 1 Club Penguin Disney online game for kids
+6129 1 DameWare Remote Control
+6257 1 WinMX (see also 6699)
+6260 2 planet M.U.L.E.
+6262 1 Sybase Advantage Database Server
+6343 1 SFlow, sFlow traffic monitoring
+6346 2 gnutella-svc, gnutella (FrostWire, Limewire, Shareaza, etc.)
+6347 2 gnutella-rtr, Gnutella alternate
+6350 2 App Discovery and Access Protocol
+6389 1 EMC CLARiiON
+6432 1 PgBouncer - A connection pooler for PostgreSQL
+6444 2 Sun Grid Engine�Qmaster Service
+6445 2 Sun Grid Engine�Execution Service
+6502 2 Netop Business Solutions - NetOp Remote Control
+6503 1 Netop Business Solutions - NetOp School
+6522 1 Gobby (and other libobby-based software)
+6523 1 Gobby 0.5 (and other libinfinity-based software)
+6543 1 Paradigm Research & Development Jetnet[53] default
+6566 1 SANE (Scanner Access Now Easy)�SANE network scanner daemon
+6571 0 Windows Live FolderShare client
+6600 1 Music Playing Daemon (MPD)
+6619 2 odette-ftps, Odette File Transfer Protocol (OFTP) over TLS/SSL
+6646 1 McAfee Network Agent
+6679 1 IRC SSL (Secure Internet Relay Chat)�often used
+6697 1 IRC SSL (Secure Internet Relay Chat)�often used
+6699 1 WinMX (see also 6257)
+6771 1 Polycom server broadcast
+6789 1 Datalogger Support Software Campbell Scientific Loggernet Software
+6888 2 MUSE
+6901 2 Windows Live Messenger (Voice)
+6969 2 acmsoda
+7000 1 Default for Vuze's built in HTTPS Bittorrent Tracker
+7001 1 Default for BEA WebLogic Server's HTTP server, though often changed during installation
+7002 1 Default for BEA WebLogic Server's HTTPS server, though often changed during installation
+7005 1 Default for BMC Software Control-M/Server and Control-M/Agent for Agent-to-Server, though often changed during installation
+7006 1 Default for BMC Software Control-M/Server and Control-M/Agent for Server-to-Agent, though often changed during installation
+7010 1 Default for Cisco AON AMC (AON Management Console) [54]
+7025 1 Zimbra LMTP [mailbox]�local mail delivery
+7047 1 Zimbra conversion server
+7133 1 Enemy Territory: Quake Wars
+7144 1 Peercast
+7145 1 Peercast
+7171 1 Tibia
+7306 1 Zimbra mysql [mailbox]
+7307 1 Zimbra mysql [logger]
+7312 1 Sibelius License Server
+7400 2 RTPS (Real Time Publish Subscribe) DDS Discovery
+7401 2 RTPS (Real Time Publish Subscribe) DDS User-Traffic
+7402 2 RTPS (Real Time Publish Subscribe) DDS Meta-Traffic
+7547 2 CPE WAN Management Protocol Technical Report 069
+7615 1 ISL Online[55] communication protocol
+7670 1 BrettspielWelt BSW Boardgame Portal
+7676 1 Aqumin AlphaVision Remote Command Interface
+7700 1 P2P DC (RedHub)
+7777 1 iChat server file transfer proxy
+7778 1 Bad Trip MUD
+7831 1 Default used by Smartlaunch Internet Cafe Administration[56] software
+7880 2 PowerSchool Gradebook Server
+7915 1 Default for YSFlight server [1]
+7935 1 Fixed port used for Adobe Flash Debug Player to communicate with a debugger (Flash IDE, Flex Builder or fdb).[57]
+8000 1 iRDMI (Intel Remote Desktop Management Interface)[58]�sometimes erroneously used instead of port 8080
+8001 1 Commonly used for internet radio streams such as those using SHOUTcast
+8002 1 Cisco Systems Unified Call Manager Intercluster
+8008 1 HTTP Alternate
+8009 1 ajp13�Apache JServ Protocol AJP Connector
+8010 1 XMPP File transfers
+8074 1 Gadu-Gadu
+8078 2 Default port for most Endless Online-based servers
+8080 1 HTTP alternate (http_alt)�commonly used for Web proxy and caching server, or for running a Web server as a non-root user
+8081 1 HTTP alternate, VibeStreamer, e.g. McAfee ePolicy Orchestrator (ePO)
+8086 1 HELM Web Host Automation Windows Control Panel
+8087 1 Hosting Accelerator Control Panel
+8089 1 Splunk Daemon
+8090 1 HTTP Alternate (http_alt_alt)�used as an alternative to port 8080
+8116 1 Check Point Cluster Control Protocol
+8118 1 Privoxy�advertisement-filtering Web proxy
+8123 1 Polipo Web proxy
+8192 1 Sophos Remote Management System
+8193 1 Sophos Remote Management System
+8194 1 Sophos Remote Management System
+8200 1 GoToMyPC
+8222 1 VMware Server Management User Interface[59] (insecure Web interface).[60] See also port 8333
+8243 2 HTTPS listener for Apache Synapse [61]
+8280 2 HTTP listener for Apache Synapse [61]
+8291 1 Winbox�Default on a MikroTik RouterOS for a Windows application used to administer MikroTik RouterOS
+8303 1 Teeworlds Server
+8332 1 Bitcoin JSON-RPC server[62]
+8333 1 Bitcoin[63]
+8400 2 cvp, Commvault Unified Data Management
+8442 2 CyBro A-bus, Cybrotech Ltd.
+8443 1 SW Soft Plesk Control Panel, Apache Tomcat SSL, Promise WebPAM SSL
+8484 2 MapleStory
+8500 2 ColdFusion Macromedia/Adobe ColdFusion default and Duke Nukem 3D�default
+8501 1 [2] DukesterX �default
+8691 1 Ultra Fractal default server port for distributing calculations over network computers
+8701 1 SoftPerfect Bandwidth Manager
+8702 1 SoftPerfect Bandwidth Manager
+8767 1 TeamSpeak�default
+8768 1 TeamSpeak�alternate
+8880 1 cddbp-alt, CD DataBase (CDDB) protocol (CDDBP) alternate
+8881 1 Atlasz Informatics Research Ltd [3] Secure Application Server
+8882 1 Atlasz Informatics Research Ltd [4] Secure Application Server
+8883 2 Secure MQ Telemetry Transport (MQTT over SSL)
+8888 1 NewsEDGE server
+8889 1 Earthland Relams 2 Server (AU1_1)
+8983 1 Default for Apache Solr 1.4
+9000 1 Buffalo LinkSystem Web access
+9001 2 ETL Service Manager[64]
+9009 2 Pichat Server�Peer to peer chat software
+9030 1 Tor often used
+9043 1 WebSphere Application Server Administration Console secure
+9050 1 Tor
+9051 1 Tor
+9060 1 WebSphere Application Server Administration Console
+9080 1 glrpc, Groove Collaboration software GLRPC
+9090 1 Webwasher, Secure Web, McAfee Web Gateway - Default Proxy Port
+9091 1 Openfire Administration Console (SSL Secured)
+9100 1 PDL Data Stream
+9101 2 Bacula Director
+9102 2 Bacula File Daemon
+9103 2 Bacula Storage Daemon
+9105 2 Xadmin Control Daemon
+9110 1 SSMP Message protocol
+9119 2 MXit Instant Messenger
+9293 1 Sony Playstation RemotePlay
+9300 1 IBM Cognos 8 SOAP Business Intelligence and Performance Management
+9303 1 D-Link Shareport Share storage and MFP printers
+9306 1 Sphinx Native API
+9312 1 Sphinx SphinxQL
+9418 2 git, Git pack transfer service
+9420 1 MooseFS distributed file system�master server to chunk servers
+9421 1 MooseFS distributed file system�master server to clients
+9422 1 MooseFS distributed file system�chunk servers to clients
+9535 2 mngsuite, LANDesk Management Suite Remote Control
+9536 2 laes-bf, IP Fabrics Surveillance buffering function
+9561 2 Network Time System Server
+9600 1 Omron FINS, OMRON FINS PLC communication
+9800 2 WebDAV Source
+9875 1 Club Penguin Disney online game for kids
+9898 1 MonkeyCom
+9987 1 TeamSpeak 3 server default (voice) port (for the conflicting service see the IANA list)
+9996 2 The Palace "The Palace" Virtual Reality Chat software.�5
+9999 0 Hydranode�edonkey2000 TELNET control
+10000 0 Webmin�Web-based Linux admin tool
+10001 1 Lantronix UDS-10/UDS100[66] RS-485 to Ethernet Converter default
+10008 2 Octopus Multiplexer, primary port for the CROMP protocol, which provides a platform-independent means for communication of objects across a network
+10009 2 Cross Fire, a multiplayer online First Person Shooter.
+10010 1 Open Object Rexx (ooRexx) rxapi daemon
+10017 0 AIX,NeXT, HPUX�rexd daemon control
+10024 1 Zimbra smtp [mta]�to amavis from postfix
+10025 1 Zimbra smtp [mta]�back to postfix from amavis
+10050 2 Zabbix-Agent
+10051 2 Zabbix-Trapper
+10113 2 NetIQ Endpoint
+10114 2 NetIQ Qcheck
+10115 2 NetIQ Endpoint
+10116 2 NetIQ VoIP Assessor
+10200 1 FRISK Software International's fpscand virus scanning daemon for Unix platforms [67]
+10308 0 Lock-on: Modern Air Combat
+10480 0 SWAT 4 Dedicated Server
+11211 0 memcached
+11235 0 Savage:Battle for Newerth Server Hosting
+11294 0 Blood Quest Online Server
+11371 0 OpenPGP HTTP key server
+11576 0 IPStor Server management communication
+12010 1 ElevateDB default database port [69]
+12011 1 Axence nVision
+12012 1 Axence nVision
+12013 2 Audition Online Dance Battle, Korea Server
+12035 1 Linden Lab viewer to sim on SecondLife
+12222 1 Light Weight Access Point Protocol (LWAPP) LWAPP data (RFC 5412)
+12223 1 Light Weight Access Point Protocol (LWAPP) LWAPP control (RFC 5412)
+12345 0 NetBus�remote administration tool (often Trojan horse). Also used by NetBuster. Little Fighter 2 (TCP).
+12489 1 NSClient/NSClient++/NC_Net (Nagios)
+12975 1 LogMeIn Hamachi (VPN tunnel software; also port 32976)�used to connect to Mediation Server (bibi.hamachi.cc); will attempt to use SSL (TCP port 443) if both 12975 & 32976 fail to connect
+13008 2 Cross Fire, a multiplayer online First Person Shooter.
+13076 1 Default for BMC Software Control-M/Enterprise Manager Corba communication, though often changed during installation
+13720 2 Symantec NetBackup�bprd (formerly VERITAS)
+13721 2 Symantec NetBackup�bpdbm (formerly VERITAS)
+13724 2 Symantec Network Utility�vnetd (formerly VERITAS)
+13782 2 Symantec NetBackup�bpcd (formerly VERITAS)
+13783 2 Symantec VOPIED protocol (formerly VERITAS)
+13785 2 Symantec NetBackup Database�nbdb (formerly VERITAS)
+13786 2 Symantec nomdb (formerly VERITAS)
+14439 1 APRS UI-View Amateur Radio[70] UI-WebServer
+14567 1 Battlefield 1942 and mods
+15000 1 psyBNC
+15567 1 Battlefield Vietnam and mods
+15345 2 XPilot Contact
+16000 1 shroudBNC
+16080 1 Mac OS X Server Web (HTTP) service with performance cache[71]
+16384 1 Iron Mountain Digital online backup
+16567 1 Battlefield 2 and mods
+17500 1 Dropbox LanSync Protocol (db-lsp); used to synchronize file catalogs between Dropbox clients on your local network.
+18010 1 Super Dancer Online Extreme(SDO-X)�CiB Net Station Malaysia Server
+18104 1 RAD PDF Service
+18180 1 DART Reporting server
+18200 2 Audition Online Dance Battle, AsiaSoft Thailand Server�Status/Version Check
+18201 2 Audition Online Dance Battle, AsiaSoft Thailand Server
+18206 2 Audition Online Dance Battle, AsiaSoft Thailand Server�FAM Database
+18300 2 Audition Online Dance Battle, AsiaSoft SEA Server�Status/Version Check
+18301 2 Audition Online Dance Battle, AsiaSoft SEA Server
+18306 2 Audition Online Dance Battle, AsiaSoft SEA Server�FAM Database
+18400 2 Audition Online Dance Battle, KAIZEN Brazil Server�Status/Version Check
+18401 2 Audition Online Dance Battle, KAIZEN Brazil Server
+18505 2 Audition Online Dance Battle, Nexon Server�Status/Version Check
+18506 2 Audition Online Dance Battle, Nexon Server
+18605 2 X-BEAT�Status/Version Check
+18606 2 X-BEAT
+19000 2 Audition Online Dance Battle, G10/alaplaya Server�Status/Version Check
+19001 2 Audition Online Dance Battle, G10/alaplaya Server
+19226 1 Panda Software AdminSecure Communication Agent
+19283 2 K2 - KeyAuditor & KeyServer, Sassafras Software Inc. Software Asset Management tools
+19294 1 Google Talk Voice and Video connections [72]
+19295 1 Google Talk Voice and Video connections [72]
+19302 1 Google Talk Voice and Video connections [72]
+19315 2 KeyShadow for K2 - KeyAuditor & KeyServer, Sassafras Software Inc. Software Asset Management tools
+19638 1 Ensim Control Panel
+19771 2 Softros LAN Messenger
+19812 1 4D database SQL Communication
+19813 1 4D database Client Server Communication
+19814 1 4D database DB4D Communication
+19880 1 Softros LAN Messenger
+19999 0 DNP - Secure (Distributed Network Protocol - Secure), a secure version of the protocol used in SCADA systems between communicating RTU's and IED's
+20000 0 DNP (Distributed Network Protocol), a protocol used in SCADA systems between communicating RTU's and IED's
+20014 1 DART Reporting server
+20720 1 Symantec i3 Web GUI server
+21001 1 AMLFilter, AMLFilter Inc. amlf-admin default port
+21011 1 AMLFilter, AMLFilter Inc. amlf-engine-01 default http port
+21012 1 AMLFilter, AMLFilter Inc. amlf-engine-01 default https port
+21021 1 AMLFilter, AMLFilter Inc. amlf-engine-02 default http port
+21022 1 AMLFilter, AMLFilter Inc. amlf-engine-02 default https port
+22136 1 FLIR Systems Camera Resource Protocol
+22347 2 WibuKey, WIBU-SYSTEMS AG Software protection system
+22350 2 CodeMeter, WIBU-SYSTEMS AG Software protection system
+23073 0 Soldat Dedicated Server
+23399 0 Skype Default Protocol
+23513 0 Duke Nukem 3D#Source code Duke Nukem Ports
+24444 0 NetBeans integrated development environment
+24465 2 Tonido Directory Server for Tonido which is a Personal Web App and P2P platform
+24554 2 BINKP, Fidonet mail transfers over TCP/IP
+24800 0 Synergy: keyboard/mouse sharing software
+24842 0 StepMania: Online: Dance Dance Revolution Simulator
+25560 0 Minecraft Amazing Freebuild Server
+25888 1 Xfire (Firewall Report, UDP_IN) IP Address (206.220.40.146) resolves to gameservertracking.xfire.com. Use unknown.
+25999 1 Xfire
+26000 1 id Software's Quake server
+26900 1 CCP's EVE Online Online gaming MMORPG
+26901 1 CCP's EVE Online Online gaming MMORPG
+27000 1 (through 27006) id Software's QuakeWorld master server
+27010 0 Source engine dedicated server port
+27014 0 Source engine dedicated server port (rare)
+27015 0 GoldSrc and Source engine dedicated server port
+27017 0 mongoDB server port
+27374 0 Sub7 default.
+27500 1 (through 27900) id Software's QuakeWorld
+27888 1 Kaillera server
+27901 1 (through 27910) id Software's Quake II master server
+27960 1 (through 27969) Activision's Enemy Territory and id Software's Quake III Arena, Quake III and Quake Live and some ioquake3 derived games
+28000 0 Bitfighter Common/default Bitfighter Server
+28001 0 Starsiege: Tribes Common/default Tribes v.1 Server
+28395 1 www.SmartSystemsLLC.com Used by Smart Sale 5.0
+28910 0 Nintendo Wi-Fi Connection
+28960 1 Call of Duty; Call of Duty: United Offensive; Call of Duty 2; Call of Duty 4: Modern Warfare; Call of Duty: World at War (PC Version)
+29000 0 Perfect World International Used by the Perfect World International Client
+29920 0 Nintendo Wi-Fi Connection
+30000 0 Pok�mon Netbattle
+30301 0 BitTorrent
+30564 1 Multiplicity: keyboard/mouse/clipboard sharing software
+30718 1 Lantronix Discovery for Lantronix serial-to-ethernet devices
+30777 1 ZangZing agent
+31337 1 Back Orifice�remote administration tool (often Trojan horse)
+31415 0 ThoughtSignal�Server Communication Service (often Informational)
+31456 1 TetriNET IRC gateway on some servers
+31457 1 TetriNET
+31458 1 TetriNET Used for game spectators
+32123 1 x3Lobby Used by x3Lobby, an internet application.
+32245 1 MMTSG-mutualed over MMT (encrypted transmission)
+32769 1 FileNet RPC
+32976 1 LogMeIn Hamachi (VPN tunnel software; also port 12975)�used to connect to Mediation Server (bibi.hamachi.cc); will attempt to use SSL (TCP port 443) if both 12975 & 32976 fail to connect
+33434 2 traceroute
+34443 0 Linksys PSUS4 print server
+36963 1 Any of the USGN online games, most notably Counter Strike 2D multiplayer (2D clone of popular CounterStrike computer game)
+37659 1 Axence nVision
+37777 1 Digital Video Recorder hardware
+40000 2 SafetyNET p Real-time Industrial Ethernet protocol
+43047 1 The�sMessenger second port for service The�sMessenger
+43048 1 The�sMessenger third port for service The�sMessenger
+47808 2 BACnet Building Automation and Control Networks (4780810 = BAC016)
+49151 2 Reserved[1]
