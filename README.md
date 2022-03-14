@@ -14,4 +14,4 @@ en camino = Precios....
 
 # Source Code
 El source Code se subirá cuando terminemos el proyecto al 100%
-El proyecto está libre de virus: <a href="https://www.virustotal.com/gui/file/61568c3fa4274158da08b1d5ea7aa667f112954082b9dcd0ab8c9a7f006655b7?nocache=1">Vier Scan De VirusTotal</a>
+El proyecto está libre de virus: <a href="https://www.virustotal.com/gui/file/61568c3fa4274158da08b1d5ea7aa667f112954082b9dcd0ab8c9a7f006655b7?nocache=1">Ver Scan De VirusTotal</a>
